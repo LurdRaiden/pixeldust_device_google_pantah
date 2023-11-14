@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fonts-modification version="1">
+<family customizationType="new-named-family" name="sofiasans">
+	<font weight="400" style="normal">SofiaSansExtraCondensed-Regular.ttf</font>
+	<font weight="400" style="italic">SofiaSansExtraCondensed-Italic.ttf</font>
+	<font weight="700" style="normal">SofiaSansExtraCondensed-Bold.ttf</font>
+	<font weight="700" style="italic">SofiaSansExtraCondensed-BoldItalic.ttf</font>
+	</family>
+	<alias name="sofiasans-regular" to="sofiasans" weight="400" />
+	<alias name="sofiasans-bold" to="sofiasans" weight="700" />
+  
+   <family customizationType="new-named-family" name="sofiasans_c">
+	<font weight="400" style="normal">SofiaSansCondensed-Regular.ttf</font>
+	<font weight="400" style="italic">SofiaSansCondensed-Italic.ttf</font>
+	<font weight="700" style="normal">SofiaSansCondensed-Bold.ttf</font>
+	<font weight="700" style="italic">SofiaSansCondensed-BoldItalic.ttf</font>
+	</family>
+	<alias name="sofiasans_c-regular" to="sofiasans_c" weight="400" />
+	<alias name="sofiasans_c-bold" to="sofiasans_c" weight="700" />
+  
+ <family customizationType="new-named-family" name="saira">
+	<font weight="400" style="normal">SairaExtraCondensed-Regular.ttf</font>
+	<font weight="400" style="italic">SairaExtraCondensed-Regular.ttf</font>
+	<font weight="700" style="normal">SairaExtraCondensed-Bold.ttff</font>
+	<font weight="700" style="italic">SairaExtraCondensed-Bold.ttf</font>
+	</family>
+	<alias name="saira-regular" to="saira" weight="400" />
+	<alias name="saira-bold" to="saira" weight="700" />
+
+ <family customizationType="new-named-family" name="harmoniasans">
+	<font weight="400" style="normal">HarmoniaSansCondensed.ttf</font>
+	<font weight="400" style="italic">HarmoniaSansCondensed.ttf</font>
+	<font weight="700" style="normal">HarmoniaSansCondensedBold.ttf</font>
+	<font weight="700" style="italic">HarmoniaSansCondensedBold.ttf</font>
+	</family>
+	<alias name="harmoniasans-regular" to="harmoniasans" weight="400" />
+	<alias name="harmoniasans-bold" to="harmoniasans" weight="700" />
+    
+  <family customizationType="new-named-family" name="twcenmt">
+	<font weight="400" style="normal">TwCenMTCondensed.ttf</font>
+	<font weight="400" style="italic">TwCenMTCondensed.ttf</font>
+	<font weight="700" style="normal">TwCenMTCondensedBold.ttf</font>
+	<font weight="700" style="italic">TwCenMTCondensedBold.ttf</font>
+	</family>
+	<alias name="twcenmt-regular" to="twcenmt" weight="400" />
+	<alias name="twcenmt-bold" to="twcenmt" weight="700" />
+
+	<family customizationType="new-named-family" name="orionpro">
+	<font weight="400" style="normal">Orion-Regular.ttf</font>
+	<font weight="400" style="italic">Orion-Italic.ttf</font>
+	<font weight="700" style="normal">Orion-Bold.ttf</font>
+	<font weight="700" style="italic">Orion-Bolditalic.ttf</font>
+	</family>
+	<alias name="orionpro-regular" to="orionpro" weight="400" />
+	<alias name="orionpro-medium" to="orionpro" weight="700" />
+
+  <family customizationType="new-named-family" name="spacegrotesk">
+	<font weight="400" style="normal">SpaceGrotesk-Regular.ttf</font>
+	<font weight="400" style="italic">SpaceGrotesk-Regular.ttf</font>
+	<font weight="700" style="normal">SpaceGrotesk-Bold.ttf</font>
+	<font weight="700" style="italic">SpaceGrotesk-Bold.ttf</font>
+	</family>
+	<alias name="spacegrotesk-regular" to="spacegrotesk" weight="400" />
+	<alias name="spacegrotesk-medium" to="spacegrotesk" weight="700" />
+</fonts-modification>
