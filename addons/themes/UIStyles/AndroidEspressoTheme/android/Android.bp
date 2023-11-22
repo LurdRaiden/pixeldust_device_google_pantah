@@ -1,5 +1,0 @@
-runtime_resource_overlay {
-    name: "AndroidEspressoThemeOverlay",
-    theme: "AndroidEspressoTheme",
-    product_specific: true,
-}
