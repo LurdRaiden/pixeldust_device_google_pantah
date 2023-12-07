@@ -29,12 +29,10 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    FontHarmoniaSansOverlay \
-    FontTwCenMtOverlay \
-    FontOrionProOverlay \
-    FontSairaOverlay \
-    FontSofiaSansOverlay \
-    FontSofiaSansCondensedOverlay
+    FontHarmoniasansOverlay \
+    FontSofiasansOverlay  \
+    FontTwcenOverlay 
+    
 
 # Themes
 PRODUCT_PACKAGES += \
@@ -47,6 +45,8 @@ PRODUCT_PACKAGES += \
     IconPackPlumpyAndroidOverlay \
     IconPackPlumpySystemUIOverlay
 
+PRODUCT_PACKAGES += \
+    fonts_customization.xml
 
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,device/google/pantah/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
